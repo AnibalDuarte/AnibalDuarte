@@ -1,4 +1,4 @@
-# Aníbal Duarte Bersagui de Oliveira 🧑‍💻
+# Aníbal Duarte Bersagui de Oliveira 
 
 **SecDevOps | Project Manager | Desenvolvedor Full Stack Sênior**
 
