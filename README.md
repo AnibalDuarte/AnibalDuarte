@@ -14,8 +14,8 @@ Sou um profissional com mais de 20 anos de experiência em TI, atuando como **Se
 
 | Linguagens & Frameworks | Infraestrutura & DevOps | Banco de Dados & APIs |
 |-------------------------|--------------------------|-----------------------|
-| PHP (Laravel, CodeIgniter) ![PHP](https://img.shields.io/badge/PHP-%3C%2F%3E-blue) | AWS, Firewalls, Active Directory ![AWS](https://img.shields.io/badge/AWS-cloud-orange) | MySQL, SQL Server, MongoDB ![DB](https://img.shields.io/badge/DB-brightgreen) |
-| JavaScript, Node.js, React, Vue, React Native ![JS](https://img.shields.io/badge/JS-%E2%9C%86-yellow) | Backup, Segurança da Informação, LGPD | RESTful APIs, Integrações com IA (ChatGPT-4, IBM Watson) |
+| ![PHP](https://img.shields.io/badge/PHP-%3C%2F%3E-blue) Laravel / CodeIgniter  | ![AWS](https://img.shields.io/badge/AWS-cloud-orange) / Firewalls / Active Directory  | MySQL / SQL Server / MongoDB |
+| ![JS](https://img.shields.io/badge/JS-%E2%9C%86-yellow) Node.js / React / Vue  | Backup / Segurança da Informação / LGPD | RESTful APIs / Integrações com IA |
 
 ---
 
