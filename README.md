@@ -15,13 +15,13 @@ Sou um profissional com mais de 20 anos de experiência em TI, atuando como **Se
 | Linguagens & Frameworks | Infraestrutura & DevOps | Banco de Dados & APIs |
 |-------------------------|--------------------------|-----------------------|
 | ![PHP](https://img.shields.io/badge/PHP-%3C%2F%3E-blue) Laravel / CodeIgniter  | ![AWS](https://img.shields.io/badge/AWS-cloud-orange) / Firewalls / Active Directory  | MySQL / SQL Server / MongoDB |
-| ![JS](https://img.shields.io/badge/JS-%E2%9C%86-yellow) Node.js / React / Vue  | Backup / Segurança da Informação / LGPD | RESTful APIs / Integrações com IA |
+| ![JS](https://img.shields.io/badge/JS-%E2%9C%86-yellow) Node.js / React / Vue / Angular  | Backup / Segurança da Informação / LGPD | RESTful APIs / Integrações com IA / Meios de pagamento |
 
 ---
 
 ##  Atuação Profissional
 
-Atualmente lidero projetos e desenvolvo soluções robustas através da minha empresa, **POAWEB**, onde atuo desde a concepção até a entrega de softwares web e mobile altamente escaláveis.
+Atualmente lidero projetos e desenvolvo soluções robustas através da minha empresa, a **POAWEB**, onde atuo desde a concepção até a entrega de softwares web e mobile altamente escaláveis.
 
 A POAWEB se destaca por:
 
@@ -35,12 +35,10 @@ A POAWEB se destaca por:
 
 Entre os clientes atendidos pela POAWEB estão:
 
-- **Clean Yoga Club** – App de videoaulas com infraestrutura AWS, PWA, Apple Pay / Google Pay, streaming HLS  
-- **SunoPaim Comunicação** – Soluções internas e integrações web  
+- **Clean Yoga Club** – App de videoaulas com infraestrutura AWS, PWA, Apple Pay / Google Pay, ClouFlare e streaming HLS  
+- **Paim Comunicação** – Soluções internas e integrações web  
 - **ComentaAi e BeniClub** – PWAs para avaliação de serviços e clubes de fidelidade  
 - CRMs, ERPs, CMS, EAD, Data Scrap, Chatbots, eCommerce, etc
-
-Confira o portfólio completo em [poaweb.com.br](https://www.poaweb.com.br).
 
 ---
 
@@ -49,10 +47,3 @@ Confira o portfólio completo em [poaweb.com.br](https://www.poaweb.com.br).
 - Portfólio: [poaweb.com.br](https://www.poaweb.com.br)  
 - LinkedIn: [linkedin.com/in/anibal-duarte/](https://www.linkedin.com/in/anibal-duarte/)  
 - Email: **anibal.duarte@poaweb.com.br**
-
----
-
-##  Como você pode me ajudar
-
-Este repositório centraliza meus projetos e contribuições. Seu feedback é muito bem-vindo! Se quiser colaborar, sugerir melhorias ou apenas trocar uma ideia, estou à disposição.
-
