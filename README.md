@@ -26,7 +26,7 @@ Atualmente lidero projetos e desenvolvo soluções robustas através da minha em
 A POAWEB se destaca por:
 
 - Identificar **necessidades de forma proativa** e desenvolver soluções definitivas, voltadas à performance, segurança e UX  
-- Entregar projetos que envolvem infraestrutura (servidores, firewalls, alta disponibilidade), marketing digital (SMS, e-mail, chatbots) e Inteligência Analítica (Big Data, Data Scrap, Data Science) :contentReference[oaicite:1]{index=1}  
+- Entregar projetos que envolvem infraestrutura (servidores, firewalls, alta disponibilidade), marketing digital (SMS, e-mail, chatbots) e Inteligência Analítica (Big Data, Data Scrap, Data Science) 
 - Atuar com integração de tecnologias como **AWS**, **Azure**, **CloudFlare**, **OpenAI**, **Google Business**, **Hotmart** e diversas soluções de meios de pagamento, CRMs e ERPs
 
 ---
