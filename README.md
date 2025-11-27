@@ -6,7 +6,7 @@
 
 ##  Sobre Mim
 
-Sou um profissional com mais de 20 anos de experiência em TI, atuando como **Gerente de Projetos**, **SecDevOps** e **Desenvolvedor Full Stack Sênior**. Meu diferencial está na minha capacidade de integrar infraestrutura, desenvolvimento web e gestão estratégica para entregar soluções de alto impacto.
+Sou um profissional com mais de 20 anos de experiência em TI, atuando como **Gerente de Projetos**, **SecDevOps** e **Desenvolvedor Full Stack Sênior**. Meu diferencial está na minha capacidade de gerenciamento de equipes de multidisciplinares e multitecnológicas, assim como integrar infraestrutura, desenvolvimento web e gestão estratégica para entregar soluções de alto impacto.
 
 ---
 
