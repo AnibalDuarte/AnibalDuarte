@@ -33,14 +33,32 @@ A POAWEB se destaca por:
 
 ##  Projetos e Clientes
 
-Entre os clientes atendidos pela POAWEB estão:
+Entre os projetos e clientes atendidos pela POAWEB estão:
 
+- **Tesselar** – Plataforma corporativa de BPMS, Low-Code e Gestão Operacional *(detalhes abaixo)*
 - **Clean Yoga Club** – App de videoaulas com infraestrutura AWS, PWA, Apple Pay / Google Pay, streaming HLS  
 - **SunoPaim Comunicação** – Soluções internas e integrações web  
 - **ComentaAi e BeniClub** – PWAs para avaliação de serviços e clubes de fidelidade  
 - CRMs, ERPs, CMS, EAD, Data Scrap, Chatbots, eCommerce, etc
 
 Confira o portfólio completo em [poaweb.com.br](https://www.poaweb.com.br).
+
+---
+
+## Projeto em Destaque: Plataforma Tesselar
+
+O **[Tesselar](https://tesselar.com.br)** é uma plataforma corporativa *enterprise-grade* de gestão operacional, automação de processos de negócio (**BPMS**) e desenvolvimento acelerado de aplicações (**Low-Code**), concebida e desenvolvida integralmente com foco em alta performance, escalabilidade e governança rigorosa.
+
+### Principais Pilares & Diferenciais Arquiteturais:
+
+- **Motor BPMS Integrado (BPMN 2.0)**: Modelador visual dinâmico com suporte nativo a tarefas humanas, tarefas de integração, subprocessos, gateways de decisão, timers intermediários e eventos de borda (*boundary events*).
+- **Motor de Regras de Negócio em Sandbox**: Execução segura e isolada de regras lógicas customizadas em PHP 8.4, com análise léxica contra chamadas não autorizadas, tipagem estrita de entrada/saída e compilação em tempo de execução.
+- **System Builder (Low-Code Studio)**: Ferramentas visuais *drag-and-drop* para criação dinâmica de formulários complexos, relatórios, gráficos, dashboards analíticos e árvores de navegação/menus.
+- **Gestão Operacional & Kanban Avançado**: Quadros de tarefas reativos com alternância entre visão global e visão departamental por setor, reordenação interativa por arrasto, políticas de governança (coluna inicial restritiva, bloqueio de retorno ao backlog) e visualização alternativa em raias horizontais (*swimlanes*) ou tabelas.
+- **Acessibilidade Digital & Widget Universal**: Módulo nativo aderente aos padrões internacionais **WCAG**, perfis assistivos para TDAH e dislexia, modos daltônicos (deuteranopia, protanopia, tritanopia) e contraste customizável.
+- **Arquitetura Multi-Tenant & SecDevOps**: Isolamento criptográfico e de escopo por tenant, trilha completa de auditoria (*logs* de cada transição e alteração de estado) e comunicação em tempo real via WebSockets.
+
+> **Acesse:** [tesselar.com.br](https://tesselar.com.br) | 📚 **Documentação Técnica:** [docs.tesselar.com.br](https://docs.tesselar.com.br)
 
 ---
 
